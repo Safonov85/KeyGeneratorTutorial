@@ -1,0 +1,6 @@
+/home/mikey/Projects/KeyGeneretorTutorial/bin/Debug/KeyGeneretorTutorial.exe
+/home/mikey/Projects/KeyGeneretorTutorial/bin/Debug/KeyGeneretorTutorial.pdb
+/home/mikey/Projects/KeyGeneretorTutorial/obj/x86/Debug/KeyGeneretorTutorial.csprojAssemblyReference.cache
+/home/mikey/Projects/KeyGeneretorTutorial/obj/x86/Debug/KeyGeneretorTutorial.csproj.CoreCompileInputs.cache
+/home/mikey/Projects/KeyGeneretorTutorial/obj/x86/Debug/KeyGeneretorTutorial.exe
+/home/mikey/Projects/KeyGeneretorTutorial/obj/x86/Debug/KeyGeneretorTutorial.pdb

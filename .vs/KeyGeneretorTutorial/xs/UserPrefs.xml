@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{ED2B3EA9-2982-43FA-A947-70839F370478}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreateKeys.cs">
+    <Files>
+      <File FileName="CreateKeys.cs" Line="9" Column="42" />
+      <File FileName="Program.cs" Line="17" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KeyGeneretorTutorial" expanded="True">
+            <Node name="KeyGeneretorTutorial" expanded="True">
+              <Node name="CreateKeys.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.KeyGeneretorTutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
